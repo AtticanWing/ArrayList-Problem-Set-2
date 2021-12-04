@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Eratosthenes
+comment1.params=n
+comment1.target=java.util.ArrayList\ sieveEratosthenes(int)
+comment2.params=even
+comment2.target=void\ goldbach(int)
+comment3.params=big1\ big2
+comment3.target=java.util.ArrayList\ add(java.util.ArrayList,\ java.util.ArrayList)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
